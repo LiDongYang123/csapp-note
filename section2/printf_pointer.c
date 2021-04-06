@@ -17,5 +17,6 @@ void show_bytes(pointer start,size_t len) {
         printf("0x%.12p\t%x\n",start+i,start[i]);
     }
     printf("\n");
+    printf("\n");
     
 }
